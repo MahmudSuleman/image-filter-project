@@ -48,4 +48,4 @@ Add your own domain name and have it point to the running services (try adding a
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
 
 
-EB_URL=wunnam.us-east-1.elasticbeanstalk.com
+EB_URL=http://wunnam-env.eba-c6figatu.us-east-1.elasticbeanstalk.com 
